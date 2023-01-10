@@ -1,0 +1,2 @@
+# inicio
+Cómo hacerlo
